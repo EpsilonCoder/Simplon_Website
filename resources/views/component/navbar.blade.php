@@ -12,23 +12,19 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+                       
                         <li class="nav-item mx-2">
-                            <a class="nav-link " aria-current="page" href="index.html">Accueil</a>
+                            <a class="nav-link " href="/">Formations</a>
                         </li>
                         <li class="nav-item mx-2">
-                            <a class="nav-link" href="Fabrique/fabrique.html">Fabrique</a>
+                            <a class="nav-link " href="/">        </a>
                         </li>
                         <li class="nav-item mx-2">
-                            <a class="nav-link active" href="formation.html">Formations</a>
+                            <a href="/login" class="nav-link ">Connexion</a>
                         </li>
+
                         <li class="nav-item mx-2">
-                            <a class="nav-link " href="partenariat.html">Partenariat</a>
-                        </li>
-                        <li class="nav-item mx-2">
-                            <a class="nav-link " href="Partie_Espace/index.html">Espaces</a>
-                        </li>
-                        <li class="nav-item mx-2">
-                            <a class="nav-link " href="entité.html">Entites</a>
+                            <a href="/register" class="nav-link ">Inscription</a>
                         </li>
                     </ul>
                     <form class="d-flex flex-column flex-lg-row align-items-lg-center">
@@ -56,8 +52,6 @@
                                 </li>
                             </ul>
                         </div>
-                        <a href="/login" class="sm px-3 py-2 sp-rounded-link  sp-btn-danger">Connexion</a>
-                        <a href="/register" class="sm px-3 py-2 sp-rounded-link  sp-btn-danger">Inscription</a>
                       
                        
                     </form>
