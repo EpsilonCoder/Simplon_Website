@@ -56,7 +56,10 @@
                                 </li>
                             </ul>
                         </div>
-                        <a href="" class="sm px-3 py-2 sp-rounded-link  sp-btn-danger">Contact</a>
+                        <a href="/login" class="sm px-3 py-2 sp-rounded-link  sp-btn-danger">Connexion</a>
+                        <a href="/register" class="sm px-3 py-2 sp-rounded-link  sp-btn-danger">Inscription</a>
+                      
+                       
                     </form>
                 </div>
             </div>
